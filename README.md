@@ -20,7 +20,7 @@ Environmental Sensors](https://ieeexplore.ieee.org/abstract/document/)*," In IEE
 
 
 <p align="center">
-  <img width="500" src="doc/scheme.jpg">
+  <img width="700" src="doc/scheme.jpg">
 </p>
   <h3 align="center"> Scheme:</h3>
 
