@@ -14,10 +14,15 @@ Environmental Sensors](https://ieeexplore.ieee.org/abstract/document/)*," In IEE
 
 Energy Harvesting IoT system pipeline:
 
-<img src="doc/eh-pipeline.jpg" width="500">
+<p align="center">
+  <img width="500" src="doc/eh-pipeline.jpg">
+</p>
 
 
 Scheme:
 
-<img src="doc/scheme.jpg" width="500">
+<p align="center">
+  <img width="500" src="doc/scheme.jpg">
+</p>
+
 
