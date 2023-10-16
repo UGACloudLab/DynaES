@@ -17,9 +17,9 @@ Energy Harvesting IoT system pipeline:
 <p align="center">
   <img width="500" src="doc/eh-pipeline.jpg">
 </p>
-<p align="center">
-  <h3>Energy Harvesting IoT system pipeline</h3>
-</p>
+
+| Energy Harvesting IoT system pipeline |
+
 
 Scheme:
 
