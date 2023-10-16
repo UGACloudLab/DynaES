@@ -11,4 +11,6 @@ DynaES comprises two components: a DC power gain estimator that predicts future 
 Environmental Sensors](https://ieeexplore.ieee.org/abstract/document/)*," In IEEE International Performance Computing and Communications Conference (IPCCC), 2023
 
 ## Scheme
-[Scheme](doc/scheme.pdf)
+
+![Energy Harvesting IoT system pipeline](https://github.com/glennjw/DynaES/doc/eh-pipeline.pdf)
+![Scheme](https://github.com/glennjw/DynaES/doc/scheme.pdf)
