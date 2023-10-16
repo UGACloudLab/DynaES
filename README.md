@@ -2,7 +2,7 @@
 
 ## What is DynaES?
 
-[DynaES](https://github.com/kaustubhrajput46/EdgeFaaSBench) is a novel energy scheduling method for EH sensors without relying on online weather forecasts. 
+[DynaES](https://github.com/kaustubhrajput46/EdgeFaaSBench) is a novel energy scheduling method for Energy Harvesting (EH) sensors without relying on online weather forecasts. 
 
 DynaES comprises two components: a DC power gain estimator that predicts future power gain by individually estimating changes in environmental parameters and ensembling them, and a dynamic energy scheduler that distributes energy to sensors based on priority and adjusts sensing intervals and frequency.
 
