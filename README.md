@@ -12,5 +12,5 @@ Environmental Sensors](https://ieeexplore.ieee.org/abstract/document/)*," In IEE
 
 ## Scheme
 
-![Energy Harvesting IoT system pipeline](https://github.com/glennjw/DynaES/doc/eh-pipeline.pdf)
-![Scheme](https://github.com/glennjw/DynaES/doc/scheme.pdf)
+![Energy Harvesting IoT system pipeline](https://github.com/glennjw/DynaES/doc/eh-pipeline.jpg)
+![Scheme](https://github.com/glennjw/DynaES/doc/scheme.jpg)
