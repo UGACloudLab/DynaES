@@ -8,7 +8,7 @@ DynaES comprises two components: a DC power gain estimator that predicts future 
 
 ## Publication
 * Jianwei Hao, Emmanuel Oni, In Kee Kim, and Lakshmish Ramaswamy, [DynaES: Dynamic Energy Scheduling for Energy Harvesting
-Environmental Sensors]([https://cobweb.cs.uga.edu/~kim/papers/ipccc23-dynaes-hao.pdf])," In IEEE International Performance Computing and Communications Conference (IPCCC), Nov. 2023
+Environmental Sensors][https://cobweb.cs.uga.edu/~kim/papers/ipccc23-dynaes-hao.pdf]," In IEEE International Performance Computing and Communications Conference (IPCCC), Nov. 2023
 
 ## Scheme
 
